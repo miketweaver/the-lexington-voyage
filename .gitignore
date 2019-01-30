@@ -1,6 +1,9 @@
 # Hugo default output directory
 /public
 
+# generated images
+resources/_gen/
+
 ## OS Files
 # Windows
 Thumbs.db
